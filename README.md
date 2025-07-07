@@ -35,7 +35,7 @@ Permite cadastrar jogadores, registrar gols por partida e consultar os dados em 
 
 ---
 
-📷 Exemplo de uso
+## 📷 Exemplo de uso
 
 Nome do jogador: João
 Quantas partidas João jogou? 2
